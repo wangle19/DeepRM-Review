@@ -1,0 +1,1 @@
+{'train_data_size': 3040638, 'test_data_size': 195381, 'val_data_size': 195382, 'vocab_size': 50002, 'r_max_len': 40, 'u_max_r': 1, 'i_max_r': 105, 'user_num': 1901568, 'item_num': 6154, 'travel_type_num': 6, 'travel_month_num': 12}
